@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm FlameBeast25</h1>
+<h1 align="center">Hi there 👋 I'm Anish Gupta</h1>
 
 ## 👨‍💻 About Me
 - 🎮 Minecraft Server Dev | Game Dev & Video Editing Enthusiast | CS Student @ Georgia State University
