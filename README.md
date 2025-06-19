@@ -7,11 +7,13 @@
 - 📹 I run a gaming-focused YouTube channel
 - ⚙️ I love building projects, testing new tech, and exploring creative gameplay systems
 
+---
+
 ## 🧠 Current Focus
 - Developing Minecraft plugins with Java & the Spigot API
 - Learning full-stack development & expanding my coding skills
 
---
+---
 
 ## 🚀 Featured Projects
 
