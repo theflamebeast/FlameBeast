@@ -7,13 +7,13 @@
 - 📹 I run a gaming-focused YouTube channel
 - ⚙️ I love building projects, testing new tech, and exploring creative gameplay systems
 
----
+<hr style="height:1px; border:none; background-color:#444;"/>
 
 ## 🧠 Current Focus
 - Developing Minecraft plugins with Java & the Spigot API
 - Learning full-stack development & expanding my coding skills
 
----
+<hr style="height:1px; border:none; background-color:#444;"/>
 
 ## 🚀 Featured Projects
 
@@ -26,14 +26,14 @@ A fully configured Minecraft survival server with custom mobs, items, and gamepl
 
 *Technologies:* PaperMC, YAML config, MythicMobs, Skript, Java
 
----
+<hr style="height:1px; border:none; background-color:#444;"/>
 
 ### 🧩 Custom Minecraft Plugins *(In Progress)*
 A collection of plugins being developed to enhance gameplay and mechanics in Minecraft.
 
 *Technologies:* Java, Spigot API, Git, YAML config
 
----
+<hr style="height:1px; border:none; background-color:#444;"/>
 
 ## 🛠️ Technologies I Use
 - **Languages**: Java, Python, JavaScript, HTML/CSS
