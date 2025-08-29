@@ -11,7 +11,7 @@
 
 ## 🧠 Current Focus
 - Developing Minecraft plugins with Java & the Spigot API
-- Learning full-stack development & expanding my coding skills
+- Expanding my coding skills
 
 
 
