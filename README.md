@@ -1,10 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Anish Gupta</h1>
 
 ## 👨‍💻 About Me
-- 🎮 Minecraft Server Dev | Game Dev & Video Editing Enthusiast | CS Student @ Georgia State University
-- 💻 Video Editor @ [Overshock Games](https://www.overshock.games/)
+- 🎮 Minecraft Server Dev | Programming & Video Editing Enthusiast | CS Student @ Georgia State University
 - 📍 Based in North America
-- 📹 I run a gaming-focused YouTube channel
+- 📹 I also run a gaming YouTube channel
 - ⚙️ I love building projects, testing new tech, and exploring creative gameplay systems
 
 
