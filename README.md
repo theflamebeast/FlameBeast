@@ -31,4 +31,4 @@ A Python-powered utility client for Minecraft, built on Minescript.
 
 # 🛠️ Technologies I Use
 - **Languages**: [Java](https://www.java.com/en/), [Python](https://www.python.org), JavaScript, HTML/CSS
-- **Tools**: Git, Visual Studio, IntelliJ IDEA, Unity, DaVinci Resolve
+- **Tools**: Git, Visual Studio, IntelliJ IDEA, DaVinci Resolve, OBS, Blockbench, Paint.net
