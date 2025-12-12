@@ -6,33 +6,33 @@
 - 📹 I also run a gaming YouTube channel
 - ⚙️ I love building projects, testing new tech, and exploring creative gameplay systems
 
-
-
 ## 🧠 Current Focus
-- Developing Minecraft plugins with Java & the Spigot API
+- Developing Hytale/Minecraft plugins with Java
 - Expanding my coding skills
-
-
 
 ## 🚀 Featured Projects
 
 ### 🏰 Minecraft Server – Custom PaperMC Server
 A fully configured Minecraft survival server with custom mobs, items, and gameplay enhancements.
 
-- 🧩 Integrated 90+ plugins for economy, combat, and quality-of-life improvements
+- 🧩 Integrated 100+ plugins for economy, combat, and quality-of-life improvements
 - ⚔️ Designed custom mobs, item drops, and boss fights
 - 🔧 Managed server performance, permissions, and file structure for smooth gameplay
 
 *Technologies:* PaperMC, YAML config, MythicMobs, Skript, Java
 
+---
 
+### 🔥 Flame Client – Python Utility Client for Minecraft
+A Python-powered utility client for Minecraft, built on Minescript.
 
-### 🧩 Custom Minecraft Plugins *(In Progress)*
-A collection of plugins being developed to enhance gameplay and mechanics in Minecraft.
+- Modular, script-based design for easy customization
+- Live reload of scripts and settings without restarting Minecraft
+- GUI for toggling modules and adjusting settings in-game
 
-*Technologies:* Java, Spigot API, Git, YAML config
+*Technologies:* Python, Minescript, Fabric Loader, CustomTkinter
 
-
+---
 
 ## 🛠️ Technologies I Use
 - **Languages**: Java, Python, JavaScript, HTML/CSS
