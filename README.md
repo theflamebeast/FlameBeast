@@ -9,14 +9,14 @@
 
 # 🚀 Featured Projects
 
-## 🏰 Minecraft Server – Custom PaperMC Server
+## 🏰 Minecraft Server – Custom PurpurMC Server
 A fully configured Minecraft survival server with custom mobs, items, and gameplay enhancements.
 
 - 🧩 Integrated 100+ plugins for economy, combat, and quality-of-life improvements
 - ⚔️ Designed custom mobs, item drops, and boss fights
 - 🔧 Managed server performance, permissions, and file structure for smooth gameplay
 
-*Technologies:* PaperMC, YAML config, MythicMobs, Skript, Java
+*Technologies:* [PurpurMC](https://github.com/PurpurMC), YAML Config, [MythicMobs](https://git.mythiccraft.io/mythiccraft/MythicMobs), [Skript](https://github.com/SkriptLang/Skript), Java
 
 
 ## 🔥 Flame Client – Python Utility Client for Minecraft
