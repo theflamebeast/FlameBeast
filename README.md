@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Anish Gupta</h1>
 
+
+
+
 ## 👨‍💻 About Me
 - 🎮 Minecraft Server Dev | Programming & Video Editing Enthusiast | CS Student @ Georgia State University
 - 📍 Based in North America
@@ -8,9 +11,11 @@
 
 
 
+
 ## 🧠 Current Focus
 - Developing Hytale/Minecraft plugins with Java
 - Expanding my coding skills
+
 
 
 
@@ -37,6 +42,7 @@ A Python-powered utility client for Minecraft, built on Minescript.
 *Technologies:* Python, Minescript, Fabric Loader, CustomTkinter
 
 ---
+
 
 
 
