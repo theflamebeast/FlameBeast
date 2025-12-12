@@ -18,7 +18,6 @@ A fully configured Minecraft survival server with custom mobs, items, and gamepl
 
 *Technologies:* PaperMC, YAML config, MythicMobs, Skript, Java
 
----
 
 ### 🔥 Flame Client – Python Utility Client for Minecraft
 A Python-powered utility client for Minecraft, built on Minescript.
@@ -29,7 +28,6 @@ A Python-powered utility client for Minecraft, built on Minescript.
 
 *Technologies:* Python, Minescript, Fabric Loader, CustomTkinter
 
----
 
 ## 🛠️ Technologies I Use
 - **Languages**: Java, Python, JavaScript, HTML/CSS
