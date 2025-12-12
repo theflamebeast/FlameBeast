@@ -7,9 +7,11 @@
 - ⚙️ I love building projects, testing new tech, and exploring creative gameplay systems
 
 
+
 ## 🧠 Current Focus
 - Developing Hytale/Minecraft plugins with Java
 - Expanding my coding skills
+
 
 
 ## 🚀 Featured Projects
@@ -35,6 +37,7 @@ A Python-powered utility client for Minecraft, built on Minescript.
 *Technologies:* Python, Minescript, Fabric Loader, CustomTkinter
 
 ---
+
 
 
 ## 🛠️ Technologies I Use
