@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Anish Gupta</h1>
+<h1 align="center">Hi there 👋 I'm Anish</h1>
 
 # 👨‍💻 About Me
 - 🎮 Minecraft Server Dev | Programming & Video Editing Enthusiast | CS Student @ Georgia State University
